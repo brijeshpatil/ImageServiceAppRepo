@@ -1,0 +1,6 @@
+D:\Brijesh\Dot Net\WebServiceForImages\WebServiceForImages\obj\Debug\WebServiceForImages.csprojResolveAssemblyReference.cache
+D:\Brijesh\Dot Net\WebServiceForImages\WebServiceForImages\bin\WebServiceForImages.dll.config
+D:\Brijesh\Dot Net\WebServiceForImages\WebServiceForImages\bin\WebServiceForImages.dll
+D:\Brijesh\Dot Net\WebServiceForImages\WebServiceForImages\bin\WebServiceForImages.pdb
+D:\Brijesh\Dot Net\WebServiceForImages\WebServiceForImages\obj\Debug\WebServiceForImages.dll
+D:\Brijesh\Dot Net\WebServiceForImages\WebServiceForImages\obj\Debug\WebServiceForImages.pdb
